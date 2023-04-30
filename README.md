@@ -1,3 +1,3 @@
 # Kokoa clone 2023 version
 
-Heroes of the Storm is awesome!
+League of Legend is more awesome!
