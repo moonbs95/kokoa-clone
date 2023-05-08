@@ -1,0 +1,11 @@
+.more-screen .icon-row{
+    margin-top: 20px;
+}
+
+.suggestions{
+    margin: 40px 0;
+    padding: 25px 0;
+    border-top: var(--border-line);
+    font-size: 15px;
+    color: rgba(0,0,0,0.7);
+}
