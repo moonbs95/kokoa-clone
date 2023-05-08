@@ -1,31 +1,12 @@
-.find-icons {
-    display: flex;
-    justify-content: space-between;
-}
-
-.find-icons__icon{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    color: var(--melon);
-}
-
-.find-icons__icon i{
-    margin-bottom: 5px;
-    font-size: 30px;
-}
-
 .recommended-friends{
     margin: 25px 0;
     padding: 25px 0;
     border-top: var(--border-line);
     border-bottom: var(--border-line);
-}
-
-.recommended-friends{
     font-size: 15px;
     color: rgba(0,0,0,0.4);
 }
+
 
 .recommended-friends span{
     font-size: 18px;
