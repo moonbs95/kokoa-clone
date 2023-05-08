@@ -18,6 +18,7 @@
 .user-component__title{
     font-weight: 600;
     font-size: 18px;
+    color: var(--melon);
 }
 
 .user-component__subtitle{
