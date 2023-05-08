@@ -18,6 +18,10 @@
     position: relative;
 }
 
+.nav__link i{
+    color: var(--melon);
+}
+
 .nav__notification{
     position: absolute;
     left: 15px;
